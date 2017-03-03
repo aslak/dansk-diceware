@@ -1,3 +1,4 @@
+abe
 abekat
 abnorm
 abonnent
@@ -156,8 +157,8 @@ analog
 analyse
 ananas
 anarki
-andel
 and
+andel
 andre
 andy
 anede
@@ -223,6 +224,7 @@ arketype
 arkiv
 arkivar
 arktis
+arm
 armbånd
 arme
 armgang
@@ -337,11 +339,11 @@ bankboks
 bankerot
 banko
 banner
+bar
 barak
 barbar
 barbecue
 barbere
-bar
 bare
 barfodet
 bark
@@ -558,6 +560,7 @@ bluff
 blunde
 blus
 bluse
+bly
 blyant
 blyfri
 blæk
@@ -574,8 +577,8 @@ blålys
 boble
 bodega
 bofast
-bogbus
 bog
+bogbus
 bogføre
 boghvede
 bogie
@@ -595,6 +598,7 @@ bolig
 bolle
 bolledej
 boltsaks
+bom
 bombe
 bommert
 bomuld
@@ -644,6 +648,7 @@ brint
 brise
 brist
 britisk
+bro
 broccoli
 brod
 broder
@@ -683,8 +688,10 @@ brøl
 budcykel
 budding
 budt
+bue
 buffet
 bugt
+buk
 buket
 bukseben
 bukser
@@ -695,14 +702,15 @@ bump
 bundet
 bundt
 bunke
+bur
 bureau
 burger
 burhøns
 burka
+bus
 busk
 buskort
 busrute
-bus
 bustur
 butan
 butik
@@ -717,6 +725,7 @@ byde
 bydel
 byen
 byfest
+byg
 bygas
 byge
 bygge
@@ -730,16 +739,20 @@ byret
 byrum
 bytte
 bytur
+bæk
 bælte
 bænk
+bær
 bærbar
 bære
 bæst
 bævl
 bøde
+bøf
 bøffel
 bøffen
 bøfhus
+bøg
 bøger
 bøgetræ
 bøje
@@ -750,11 +763,14 @@ bønne
 børn
 børnene
 børshaj
+båd
 både
 båden
+bål
 bålet
 bånd
 båre
+bås
 cache
 caddie
 cadeau
@@ -817,10 +833,10 @@ cyklist
 cæsar
 dada
 dadel
+dag
 dagblad
 dagbog
 dagdrøm
-dag
 dagen
 dagens
 dages
@@ -829,11 +845,13 @@ daglig
 dagpenge
 dagpleje
 dagtime
+dal
 dalbo
 dale
 daler
 dallas
 dalre
+dam
 dame
 dameblad
 damen
@@ -1137,6 +1155,7 @@ dråber
 dubbe
 dubl
 duble
+due
 duel
 duer
 dueslag
@@ -1182,6 +1201,7 @@ duve
 duven
 dvale
 dvask
+dyb
 dybde
 dybel
 dybet
@@ -1203,6 +1223,7 @@ dynge
 dyns
 dyppe
 dyppelse
+dyr
 dyre
 dyrebar
 dyrebare
@@ -1232,6 +1253,7 @@ døgnflue
 døgnåben
 dømme
 dømt
+dør
 døre
 døren
 dørene
@@ -1346,6 +1368,7 @@ elevator
 elever
 elevråd
 elfenben
+elg
 elgko
 elgtyr
 elguitar
@@ -1358,6 +1381,7 @@ ellers
 ellert
 elleve
 ellie
+elm
 elmast
 elmåler
 elpris
@@ -1415,6 +1439,7 @@ enes
 eneste
 enetime
 enfold
+eng
 engang
 engel
 engelsk
@@ -1564,6 +1589,7 @@ facto
 facts
 fade
 fader
+fag
 fagblad
 fager
 fagfolk
@@ -1616,6 +1642,7 @@ fanme
 fans
 fantasi
 fantomet
+far
 farad
 farao
 farbror
@@ -1675,6 +1702,7 @@ favntag
 favorit
 favr
 favør
+fax
 faxe
 feature
 feber
@@ -1700,6 +1728,7 @@ fejlskud
 fejr
 fejre
 felt
+fem
 feminin
 femkant
 femmer
@@ -1760,6 +1789,7 @@ filter
 filur
 fimre
 fims
+fin
 final
 finale
 finalen
@@ -1911,6 +1941,7 @@ fluor
 flus
 flute
 flux
+fly
 flyd
 flyde
 flydende
@@ -1958,6 +1989,7 @@ fnys
 fnyse
 fnyst
 fobi
+fod
 fodbad
 fodbold
 fode
@@ -2151,6 +2183,7 @@ fremmed
 fremmede
 fremtid
 freon
+fri
 friaften
 fridag
 fridage
@@ -2206,6 +2239,7 @@ fryser
 fræk
 frækhed
 frækt
+frø
 frøken
 frømand
 frøs
@@ -2242,6 +2276,7 @@ funk
 funke
 funkis
 funky
+fup
 fupmager
 fuppe
 fure
@@ -2272,6 +2307,7 @@ fynbo
 fynd
 fynsk
 fyord
+fyr
 fyraften
 fyre
 fyren
@@ -2311,6 +2347,7 @@ fødekæde
 fødsel
 født
 føjte
+føl
 føle
 følelse
 følelser
@@ -2334,7 +2371,9 @@ ført
 førte
 fået
 fåmælt
+får
 fårehund
+gab
 gabe
 gaben
 gabestok
@@ -2401,6 +2440,7 @@ gartner
 garve
 garvet
 gary
+gas
 gasbeton
 gasblus
 gase
@@ -2433,6 +2473,7 @@ gebet
 gebis
 gebyr
 gebyrfri
+ged
 gedde
 gedebuk
 gedekid
@@ -2515,6 +2556,7 @@ gifter
 giftes
 gigant
 gigt
+gik
 gilde
 gimp
 gimpe
@@ -2566,6 +2608,7 @@ glids
 glimmer
 glimt
 glip
+glo
 global
 globe
 glor
@@ -2597,6 +2640,7 @@ gnist
 gnom
 gnome
 gnub
+god
 godaften
 godbid
 goddag
@@ -2689,6 +2733,7 @@ grip
 gris
 grise
 grisk
+gro
 grobund
 groft
 grog
@@ -2741,6 +2786,7 @@ grønkål
 grønne
 grønt
 grøntsag
+grå
 gråhåret
 gråskæg
 gråspurv
@@ -2758,6 +2804,7 @@ guffe
 gufle
 guide
 guitar
+gul
 guld
 guldet
 guldfisk
@@ -2781,6 +2828,7 @@ gunst
 gunstig
 guppy
 guru
+gut
 gutter
 gyde
 gyder
@@ -2798,6 +2846,7 @@ gylte
 gymnast
 gynge
 gyro
+gys
 gyse
 gysen
 gyser
@@ -2810,10 +2859,12 @@ gækkeri
 gæld
 gælder
 gældfri
+gær
 gæst
 gæstebog
 gæster
 gæstfri
+gæt
 gætte
 gætteleg
 gætter
@@ -2850,9 +2901,11 @@ hagl
 hagle
 haglvejr
 haiku
+haj
 hajtand
 hakke
 hakkebøf
+hal
 hale
 haleben
 halefjer
@@ -2933,6 +2986,7 @@ haste
 hastesag
 hastig
 hastværk
+hat
 hattrick
 hausa
 havarti
@@ -2971,6 +3025,7 @@ hegn
 hegne
 heie
 heit
+hej
 hejre
 hejs
 hejsa
@@ -3204,6 +3259,8 @@ http
 https
 hudløs
 hudre
+hue
+hug
 hugaf
 hugge
 hughes
@@ -3212,6 +3269,7 @@ hugtand
 huhej
 huje
 hujen
+hul
 huld
 hule
 huleboer
@@ -3307,6 +3365,7 @@ hyfe
 hygge
 hyggelig
 hykle
+hyl
 hyld
 hylde
 hyle
@@ -3328,7 +3387,9 @@ hytte
 hæder
 hæderlig
 hæfte
+hæk
 hækkeløb
+hæl
 hældning
 hændelse
 hænder
@@ -3339,6 +3400,7 @@ hængelås
 hænger
 hængt
 hæren
+hæs
 hævekort
 hævn
 høfeber
@@ -3366,6 +3428,7 @@ høstak
 høtyv
 høvl
 høvlen
+håb
 håbe
 håbede
 håbefuld
@@ -3381,6 +3444,7 @@ håndtere
 håndvask
 håndværk
 håndører
+hår
 hårbund
 hårbånd
 hård
@@ -3399,6 +3463,7 @@ ibis
 ibskal
 icing
 idag
+ide
 ideal
 ideel
 ideen
@@ -3448,6 +3513,7 @@ ilagte
 ilagts
 iland
 ilbud
+ild
 ilde
 ilden
 ilder
@@ -3461,6 +3527,7 @@ iling
 illegal
 illusion
 ilsom
+ilt
 ilte
 ilter
 ilters
@@ -3811,6 +3878,7 @@ kaffekop
 kage
 kagle
 kahyt
+kaj
 kajak
 kaje
 kakao
@@ -3831,6 +3899,7 @@ kalkun
 kalla
 kalot
 kalv
+kam
 kame
 kamel
 kamera
@@ -3900,6 +3969,7 @@ kastede
 kaster
 kastet
 kasus
+kat
 katalog
 katar
 kate
@@ -3948,6 +4018,7 @@ kevin
 khan
 khmer
 kick
+kig
 kige
 kigge
 kiggede
@@ -4035,6 +4106,7 @@ klips
 klir
 klire
 klit
+klo
 kloak
 klod
 klode
@@ -4069,6 +4141,7 @@ klynk
 klys
 klæder
 klædt
+klø
 kløe
 kløft
 knag
@@ -4109,6 +4182,7 @@ knuse
 knust
 knut
 knyst
+knæ
 knægt
 knægten
 knækbrød
@@ -4131,6 +4205,7 @@ kogevask
 kogge
 kogle
 kogt
+kok
 kokain
 koket
 kokke
@@ -4197,6 +4272,7 @@ kopar
 kopek
 kopi
 kopra
+kor
 koral
 koran
 korde
@@ -4277,6 +4353,7 @@ kris
 krise
 kristus
 kritik
+kro
 kroat
 kroferie
 krog
@@ -4331,6 +4408,7 @@ kugler
 kujon
 kukke
 kukur
+kul
 kulak
 kuld
 kulde
@@ -4360,6 +4438,7 @@ kuple
 kupon
 kuppe
 kuppel
+kur
 kure
 kurer
 kurie
@@ -4415,6 +4494,7 @@ kymre
 kyper
 kyras
 kyrie
+kys
 kyse
 kyser
 kyses
@@ -4429,6 +4509,7 @@ kysten
 kæde
 kædelås
 kæft
+kæk
 kælder
 kælderen
 kælenavn
@@ -4443,6 +4524,7 @@ kære
 kæreste
 kærester
 kærlig
+køb
 købe
 køber
 købstad
@@ -4482,6 +4564,7 @@ ladte
 ladts
 lady
 ladys
+lag
 lagde
 lage
 lagen
@@ -4501,6 +4584,7 @@ laksko
 lala
 lalas
 lalle
+lam
 lama
 lame
 lamel
@@ -4579,6 +4663,7 @@ leer
 leers
 leet
 lefle
+leg
 legal
 legat
 lege
@@ -4604,6 +4689,7 @@ lento
 leonard
 leopard
 leret
+let
 letal
 letkøbt
 letmælk
@@ -4800,6 +4886,7 @@ lumen
 lummer
 lumre
 lumsk
+lun
 lunch
 lund
 lunde
@@ -4812,6 +4899,7 @@ lunte
 lupin
 luppe
 lupus
+lur
 lure
 luren
 lurer
@@ -4824,6 +4912,7 @@ luve
 luvs
 luxes
 lybsk
+lyd
 lydanlæg
 lydbog
 lydbøger
@@ -4845,6 +4934,7 @@ lykkedes
 lykkelig
 lykkes
 lymfe
+lyn
 lyne
 lyner
 lynet
@@ -4854,6 +4944,7 @@ lynne
 lyntog
 lyre
 lyrik
+lys
 lysalf
 lyse
 lyseblå
@@ -4880,6 +4971,7 @@ lægen
 læger
 lægge
 lægger
+læk
 lækker
 lækkert
 lækre
@@ -4897,6 +4989,7 @@ læsehest
 læser
 læst
 læste
+løb
 løbe
 løbehjul
 løber
@@ -4912,6 +5005,7 @@ løgner
 løgsovs
 løjtnant
 lømmel
+løn
 lørdag
 løse
 løsladt
@@ -4921,6 +5015,7 @@ løst
 løve
 låge
 låne
+lår
 låse
 låsesmed
 låst
@@ -4928,6 +5023,7 @@ mach
 macho
 machs
 macon
+mad
 madam
 madame
 made
@@ -5083,6 +5179,7 @@ mejeri
 mejs
 mejse
 mekka
+mel
 melde
 melder
 meldte
@@ -5268,6 +5365,7 @@ monsun
 monto
 moppe
 mops
+mor
 morak
 moral
 mord
@@ -5345,6 +5443,7 @@ munden
 mundfuld
 munk
 munter
+mur
 murbi
 mure
 muren
@@ -5353,6 +5452,7 @@ murha
 murphy
 murre
 mursten
+mus
 muse
 museklik
 museum
@@ -5370,6 +5470,7 @@ mutant
 mute
 mutter
 muzak
+myg
 mylder
 mynde
 myndig
@@ -5397,6 +5498,7 @@ mærkbar
 mærke
 mærkelig
 mærker
+mæt
 møbel
 møde
 møder
@@ -5418,6 +5520,7 @@ måde
 måden
 måder
 måge
+mål
 målbar
 målebånd
 målestok
@@ -5466,6 +5569,7 @@ nasal
 nasse
 nasser
 nasset
+nat
 natalie
 natble
 natbus
@@ -5775,6 +5879,7 @@ nytænke
 nytår
 nyvalg
 nyvalgt
+næb
 næbdyr
 nægter
 nænsom
@@ -5808,6 +5913,7 @@ nørd
 nåde
 nåede
 nået
+nål
 nåletræ
 nåleøje
 oase
@@ -6106,6 +6212,7 @@ opvrid
 orakel
 orakle
 oral
+ord
 ordbog
 orde
 orden
@@ -6191,6 +6298,7 @@ overskud
 overskæg
 overtage
 overveje
+ovn
 ovre
 oxid
 oxygen
@@ -6231,6 +6339,7 @@ panik
 pant
 pante
 panter
+pap
 papa
 papegøje
 papil
@@ -6238,6 +6347,7 @@ papir
 papirer
 pappe
 paprika
+par
 parabol
 paradis
 paragraf
@@ -6305,6 +6415,7 @@ pejle
 pejs
 pels
 pelse
+pen
 pence
 pendler
 penge
@@ -6361,6 +6472,7 @@ pigtråd
 pike
 piker
 pikes
+pil
 pilar
 pile
 pilk
@@ -6656,8 +6768,11 @@ pyramide
 pyrit
 pyton
 pytte
+pæl
+pæn
 pæne
 pænt
+pøl
 pølse
 påfugl
 påhæng
@@ -6842,6 +6957,7 @@ rier
 riff
 riffs
 rift
+rig
 rige
 rigel
 rigeligt
@@ -6855,6 +6971,7 @@ rigtige
 rigtigt
 riley
 rille
+rim
 rime
 rimelig
 rimeligt
@@ -6870,6 +6987,7 @@ ringer
 ringet
 rinke
 rippe
+ris
 rise
 risikere
 risiko
@@ -6899,6 +7017,7 @@ rock
 rockband
 rocke
 rocky
+rod
 rode
 roden
 rodeo
@@ -6948,6 +7067,7 @@ rude
 rudel
 ruder
 rufle
+rug
 rugbrød
 rugby
 ruge
@@ -6991,6 +7111,7 @@ rutinen
 rutte
 ryan
 rydde
+ryg
 ryge
 ryger
 ryges
@@ -7009,10 +7130,12 @@ rytme
 række
 rækkehus
 rækker
+ræv
 rødbede
 røde
 rødt
 røget
+rør
 røre
 rører
 røret
@@ -7025,6 +7148,7 @@ røvhul
 råbe
 råber
 råbte
+råd
 rådet
 rådgiver
 rådhus
@@ -7056,6 +7180,7 @@ sake
 sakke
 saks
 sakse
+sal
 salami
 salat
 saldi
@@ -7129,6 +7254,7 @@ satte
 satyr
 sauce
 sauna
+sav
 save
 savl
 savle
@@ -7152,6 +7278,7 @@ seer
 segl
 segne
 seiv
+sej
 sejd
 seje
 sejl
@@ -7348,6 +7475,7 @@ skat
 skatten
 skatter
 skave
+ske
 skede
 skeen
 skeer
@@ -7360,6 +7488,7 @@ sker
 skes
 sket
 skete
+ski
 skib
 skibe
 skibet
@@ -7389,6 +7518,7 @@ skjule
 skjuler
 skjult
 skjulte
+sko
 skod
 skok
 skole
@@ -7418,7 +7548,6 @@ skrin
 skrive
 skrog
 skrot
-skrue
 skrubbe
 skrud
 skrue
@@ -7443,12 +7572,13 @@ skure
 skurk
 skut
 skvat
+sky
 skyde
 skyfri
 skygge
-skylle
 skyld
 skylde
+skylle
 skynde
 skyr
 skysovs
@@ -7564,10 +7694,11 @@ sofa
 software
 sogn
 soja
+sok
+sol
 solbær
 soldat
 solde
-sol
 sole
 solid
 solist
@@ -7619,12 +7750,12 @@ spor
 spore
 sport
 spot
-sprække
 spray
 springe
 sprit
 sprog
 sprut
+sprække
 sprænge
 spule
 spurgte
@@ -7671,6 +7802,7 @@ stemme
 sten
 stene
 step
+sti
 stift
 stige
 stik
@@ -7789,6 +7921,7 @@ sydney
 syg
 sygdom
 sylte
+syn
 synd
 synde
 synes
@@ -7799,28 +7932,35 @@ syre
 syret
 sysle
 system
+syv
+sæk
+sæl
 sælge
 sænke
 sær
 særlig
 sætte
-sød
 sø
+sød
 søge
+søm
 søn
 søndag
 sørge
 søster
 søvn
 sådan
+sål
 såre
 tabe
 tabel
 tabu
 taco
+tak
 takke
 takst
 takt
+tal
 tale
 talent
 talje
@@ -7923,23 +8063,24 @@ tobis
 toddy
 toft
 tofu
-toga
 tog
+toga
 togt
 toilet
 told
 tolk
 tolv
+tom
 tomat
 tomle
 tommy
+ton
 tonal
 tone
 tonic
 tonse
-ton
-topas
 top
+topas
 torn
 torsdag
 torsk
@@ -7957,6 +8098,7 @@ trappe
 trave
 travl
 trawl
+tre
 tredje
 tres
 trevl
@@ -7997,10 +8139,11 @@ tugte
 tukan
 tumle
 tumpe
+tun
 tung
 tunge
-turban
 tur
+turban
 turde
 turist
 turne
@@ -8024,6 +8167,7 @@ tynd
 tynge
 type
 typisk
+tyr
 tyran
 tyre
 tyrker
@@ -8122,12 +8266,13 @@ udstyr
 udsyn
 udtage
 udtryk
-udvælge
 udve
 udvej
 udvikle
+udvælge
 udyr
 uenig
+ufo
 uge
 ugle
 uheld
@@ -8135,11 +8280,13 @@ uhyre
 ukendt
 uklar
 uklog
+uld
 ulden
 ulige
 ulme
 ulovligt
 ultra
+ulv
 ulykke
 ulækkert
 umage
@@ -8226,7 +8373,6 @@ vietnam
 vifte
 vige
 vigtig
-vis
 vikar
 vikle
 vild
@@ -8235,6 +8381,7 @@ villa
 ville
 villig
 vimse
+vin
 vind
 vinde
 vindue
@@ -8248,6 +8395,7 @@ viral
 virke
 virkelig
 virus
+vis
 visa
 vise
 visir
@@ -8276,6 +8424,7 @@ vrøvl
 vugge
 vulkan
 vædde
+væg
 væggen
 vægt
 vække
@@ -8288,8 +8437,10 @@ værelse
 værk
 vært
 væsen
+væv
 våben
 vågne
+vås
 waders
 walkman
 weekend
@@ -8330,6 +8481,7 @@ zebra
 zink
 zombie
 zone
+zoo
 zoolog
 zoom
 zulu
@@ -8337,10 +8489,10 @@ zulu
 æblekage
 æblemos
 æbletræ
+æde
 ædedolk
 ædel
 ædelgran
-æde
 ædle
 ædru
 ægbakke
@@ -8395,6 +8547,7 @@ zulu
 øgle
 øgruppe
 øhav
+øje
 øjeblik
 øjehøjde
 øjekast
@@ -8420,6 +8573,7 @@ zulu
 ømhed
 ømtålig
 ønske
+øre
 ørefigen
 øreflip
 øregas
