@@ -1,13 +1,16 @@
 # dansk-diceware
-Dansk diceware ordliste
-
-*ADVARSEL: ORDLISTEN ER IKKE KLAR TIL BRUG*
+Dansk diceware ordliste version 1.0
 
 Ordliste med danske ord til at lave stærke kodesætninger efter [Diceware](http://world.std.com/~reinhold/diceware.html) metoden.
 
-Formålet er at lave en liste med ord der er nemme at huske og skrive. Den eksisterende danske ordliste indeholder mange ulamindelige ord, fremmedord og ikke-ord (ffff, qd, etc.), hvilket resulterer i mærkelige kodesætninger.
+Ordlisten er sammensat med udvalgte ord, der er nemme at huske og skrive. Den eksisterende danske ordliste indeholder mange ulamindelige ord, fremmedord og ikke-ord (ffff, qd, etc.), hvilket resulterer i mærkelige kodesætninger.
 
 Projektet er inspireret af EFFs arbejde med at lave en redigeret engelsk [ordliste](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
+
+*Bidragsydere*:
+Aslak Ransby
+Niklas Nisbeth
+Troels Møller
 
 <p xmlns:dct="http://purl.org/dc/terms/">
 <a rel="license"
